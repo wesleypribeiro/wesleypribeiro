@@ -1,9 +1,16 @@
 <h2>Olá!</h2>
-
+<p align="left">
+  <a href="https://wesleypribeiro.github.io/"><img height="32px" src="https://wesleypribeiro.github.io/img/github.png" /></a>
+  <a href"https://www.linkedin.com/in/wesley-paulo-ribeiro/"><img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" /></a>
+  <a href"https://www.facebook.com/wesleybehbs"><img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" /></a>
+  <a href"https://www.instagram.com/wesleypribeiro_"><img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" /></a>
+  <a href"mailto:wesley_paulo00@hotmail.com"><img height="32px" src="https://wesleypribeiro.github.io/img/email.png" /></a>
+</p>
 <p>Me chamo <b>Wesley Paulo</b>, sou residente de São José dos Campos, interior de SP. Amo a área de <b>desenvolvimento de sistemas</b> desde a minha adolescência quando pensava que me tornaria um hacker quando aprendesse a programar! Comecei estudando por conta com alguns blogs na internet e alguns livros, desenvolvi pequenos aplicativos em Python. Em 2012 fiz <b>Curso técnico em Informática</b> na qual um dos módulos era o de <b>desenvolvimento em C#</b> e <b>SQL Server</b>. Me Formei em <b>Análise e Desenvolvimento de Sistemas</b> no primeiro semestre de 2020 pela faculdade Estácio. Lá aprendi <b>Java</b>, POO, Modelagem de Dados, Banco de Dados, Segurança da Informação.</p>
 
 <p>Já desenvolvi alguns projetos e entre eles, um dos mais importantes que trabalhei como freelance, desenvolvi um sistema de reservas de mesas para um restaurante. Atualmente estou estudando <b>Desenvolvimento de Software</b> na <b>Trybe</b>.</p> 
 
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 <b>Pontos de destaque sobre mim:</b>
 <ul align="left">
   <li>💻 Tenho um grande interesse em <b>Desenvolvimento Full Stack</b></li>
@@ -11,7 +18,6 @@
   <li>📖 Amo ler notícias e livros que me edificam (embora hoje em dia não tenho mais o mesmo tempo de antes para ler)</li>
   <li>💭 Gosto de passar tempo livre apenas parando pensando, sim, PENSANDO! Fico refletindo e mirabolando situações que talvez nem aconteçam (ou sim!)</li>
 </ul>
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <b>Minhas habilidades:</b>
 <p align="left">
@@ -23,15 +29,6 @@
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059252-d20ae680-8472-11eb-9f1f-be95b9ccb7d5.png" alt="Git" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059324-7db43680-8473-11eb-928c-e3a7a92c4fd8.png" alt="Node" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059344-a0dee600-8473-11eb-876e-ce6212305773.png" alt="Linux" />
-</p>
-
-<b>Aonde me encontrar:</b>
-<p align="left">
-  <a href="https://wesleypribeiro.github.io/"><img height="32px" src="https://wesleypribeiro.github.io/img/github.png" /></a>
-  <a href"https://www.linkedin.com/in/wesley-paulo-ribeiro/"><img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" /></a>
-  <a href"https://www.facebook.com/wesleybehbs"><img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" /></a>
-  <a href"https://www.instagram.com/wesleypribeiro_"><img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" /></a>
-  <a href"mailto:wesley_paulo00@hotmail.com"><img height="32px" src="https://wesleypribeiro.github.io/img/email.png" /></a>
 </p>
 
 <br />
