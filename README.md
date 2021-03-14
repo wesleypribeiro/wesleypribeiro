@@ -16,7 +16,7 @@
   <li>💻 Tenho um grande interesse em <b>Desenvolvimento Full Stack</b></li>
   <li>🎮 Video-games são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)</li>
   <li>📖 Amo ler notícias e livros que me edificam (embora hoje em dia não tenho mais o mesmo tempo de antes para ler)</li>
-  <li>💭 Gosto de passar tempo livre apenas parando pensando, sim, PENSANDO! Fico refletindo e mirabolando situações que talvez nem aconteçam (ou sim!)</li>
+  <li>💭 Gosto de passar tempo livre apenas parado pensando, sim, PENSANDO! Fico refletindo e mirabolando situações que talvez nem aconteçam (ou aconteçam!)</li>
 </ul>
 
 <b>Minhas habilidades:</b>
