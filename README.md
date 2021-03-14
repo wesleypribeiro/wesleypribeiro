@@ -32,7 +32,6 @@
 </p>
 
 <br />
-<br />
 
 [![wesleypribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypribeiro)](https://github.com/wesleypribeiro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact)](https://github.com/wesleypribeiro/github-readme-stats)
