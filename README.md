@@ -31,8 +31,6 @@
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059344-a0dee600-8473-11eb-876e-ce6212305773.png" alt="Linux" />
 </p>
 
-<br />
-
 [![wesleypribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypribeiro)](https://github.com/wesleypribeiro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact)](https://github.com/wesleypribeiro/github-readme-stats)
 
