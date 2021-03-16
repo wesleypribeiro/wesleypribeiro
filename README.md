@@ -16,7 +16,7 @@
     <img height="32px" src="https://wesleypribeiro.github.io/img/email.png" />
   </a>
 </p>
-<a href="https://gitconnected.com/wesleypribeiro/resume">Meu currículo</a>
+<a href="https://gitconnected.com/wesleypribeiro/resume">Clique aqui para acessar meu currículo</a> 📄👍
 <p>Me chamo <b>Wesley Paulo</b>, sou residente de São José dos Campos, interior de SP. Amo a área de <b>desenvolvimento de sistemas</b> desde a minha adolescência quando pensava que me tornaria um hacker quando aprendesse a programar! Comecei estudando por conta com alguns blogs na internet e alguns livros, desenvolvi pequenos aplicativos em Python. Em 2012 fiz <b>Curso técnico em Informática</b> na qual um dos módulos era o de <b>desenvolvimento em C#</b> e <b>SQL Server</b>. Me Formei em <b>Análise e Desenvolvimento de Sistemas</b> no primeiro semestre de 2020 pela faculdade Estácio. Lá aprendi <b>Java</b>, POO, Modelagem de Dados, Banco de Dados, Segurança da Informação.</p>
 
 <p>Já desenvolvi alguns projetos e entre eles, um dos mais importantes que trabalhei como freelance, desenvolvi um sistema de reservas de mesas para um restaurante. Atualmente estou estudando <b>Desenvolvimento de Software</b> na <b>Trybe</b>.</p> 
