@@ -24,7 +24,7 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 <b>Pontos de destaque sobre mim:</b>
 <ul align="left">
-  <li>💻 Tenho um grande interesse em <b>Desenvolvimento Full Stack</b></li>
+  <li>💻 Tenho um grande interesse em <b>Desenvolvimento Web</b>, seja Front, End ou Full Stack</li>
   <li>🎮 Video-games são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)</li>
   <li>📖 Amo ler notícias e livros que me edificam (embora hoje em dia não tenho mais o mesmo tempo de antes para ler)</li>
   <li>💭 Gosto de passar tempo livre apenas parado pensando, sim, PENSANDO! Fico refletindo e mirabolando situações que talvez nem aconteçam (ou aconteçam!)</li>
