@@ -40,6 +40,8 @@
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059252-d20ae680-8472-11eb-9f1f-be95b9ccb7d5.png" alt="Git" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059324-7db43680-8473-11eb-928c-e3a7a92c4fd8.png" alt="Node" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059344-a0dee600-8473-11eb-876e-ce6212305773.png" alt="Linux" />
+<img height="32px" src="https://user-images.githubusercontent.com/60102340/119366103-feb75780-bc86-11eb-8d98-f78835650b85.png" alt="MySQL" />
+<img height="32px" src="https://user-images.githubusercontent.com/60102340/119366211-1b538f80-bc87-11eb-89f4-d679189e1ea3.png" alt="MongoDB" />
 </p>
 
 [![wesleypribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypribeiro)](https://github.com/wesleypribeiro/github-readme-stats)
