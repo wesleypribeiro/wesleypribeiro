@@ -3,7 +3,7 @@
   <a href="https://wesleypribeiro.github.io/" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/github.png" />
   </a>
-  <a href="https://www.linkedin.com/in/wesley-paulo-ribeiro/" target="_blank">
+  <a href="https://www.linkedin.com/in/wesleypribeiro/" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
   </a>
   <a href="https://www.facebook.com/wesleybehbs" target="_blank">
@@ -12,9 +12,7 @@
   <a href="https://www.instagram.com/wesleypribeiro_" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
   </a>
-  <a href="mailto:wesley_paulo00@hotmail.com" target="_blank">
-    <img height="32px" src="https://wesleypribeiro.github.io/img/email.png" />
-  </a>
+  <a href="mailto:wesley_paulo00@hotmail.com" target="_blank">wesley_paulo00@hotmail.com</a>
 </p>
 <a href="https://gitconnected.com/wesleypribeiro/resume">Clique aqui para acessar meu currículo</a> 📄👍
 <p>Me chamo <b>Wesley Paulo</b>, sou residente de São José dos Campos, interior de SP. Amo a área de <b>desenvolvimento de sistemas</b> desde a minha adolescência quando pensava que me tornaria um hacker quando aprendesse a programar! Comecei estudando por conta com alguns blogs na internet e alguns livros, desenvolvi pequenos aplicativos em Python. Em 2012 fiz <b>Curso técnico em Informática</b> na qual um dos módulos era o de <b>desenvolvimento em C#</b> e <b>SQL Server</b>. Me Formei em <b>Análise e Desenvolvimento de Sistemas</b> no primeiro semestre de 2020 pela faculdade Estácio. Lá aprendi <b>Java</b>, POO, Modelagem de Dados, Banco de Dados, Segurança da Informação.</p>
@@ -39,6 +37,7 @@
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059206-793b4e00-8472-11eb-9271-6241c915015d.png" alt="Redux" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059252-d20ae680-8472-11eb-9f1f-be95b9ccb7d5.png" alt="Git" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059324-7db43680-8473-11eb-928c-e3a7a92c4fd8.png" alt="Node" />
+<img height="32px" src="https://user-images.githubusercontent.com/60102340/121813902-971c7880-cc44-11eb-85f0-2306e0738c78.png" alt="Express" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059344-a0dee600-8473-11eb-876e-ce6212305773.png" alt="Linux" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/119366103-feb75780-bc86-11eb-8d98-f78835650b85.png" alt="MySQL" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/119366211-1b538f80-bc87-11eb-89f4-d679189e1ea3.png" alt="MongoDB" />
