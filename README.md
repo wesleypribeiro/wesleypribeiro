@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/wesleypribeiro_" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
   </a>
-  <a href="mailto:wesley_paulo00@hotmail.com" target="_blank">wesley_paulo00@hotmail.com</a>
+ <br /><a href="mailto:wesley_paulo00@hotmail.com" target="_blank">wesley_paulo00@hotmail.com</a>
 </p>
 <a href="https://gitconnected.com/wesleypribeiro/resume">Clique aqui para acessar meu currículo</a> 📄👍
 <p>Me chamo <b>Wesley Paulo</b>, sou residente de São José dos Campos, interior de SP. Amo a área de <b>desenvolvimento de sistemas</b> desde a minha adolescência quando pensava que me tornaria um hacker quando aprendesse a programar! Comecei estudando por conta com alguns blogs na internet e alguns livros, desenvolvi pequenos aplicativos em Python. Em 2012 fiz <b>Curso técnico em Informática</b> na qual um dos módulos era o de <b>desenvolvimento em C#</b> e <b>SQL Server</b>. Me Formei em <b>Análise e Desenvolvimento de Sistemas</b> no primeiro semestre de 2020 pela faculdade Estácio. Lá aprendi <b>Java</b>, POO, Modelagem de Dados, Banco de Dados, Segurança da Informação.</p>
