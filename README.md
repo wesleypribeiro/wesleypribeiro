@@ -17,12 +17,12 @@
 <a href="https://gitconnected.com/wesleypribeiro/resume">Clique aqui para acessar meu currículo</a> 📄👍
 <p>Me chamo <b>Wesley Paulo</b>, sou residente de São José dos Campos, interior de SP. Amo a área de <b>desenvolvimento de sistemas</b> desde a minha adolescência quando pensava que me tornaria um hacker quando aprendesse a programar! Comecei estudando por conta com alguns blogs na internet e alguns livros, desenvolvi pequenos aplicativos em Python. Em 2012 fiz <b>Curso técnico em Informática</b> na qual um dos módulos era o de <b>desenvolvimento em C#</b> e <b>SQL Server</b>. Me Formei em <b>Análise e Desenvolvimento de Sistemas</b> no primeiro semestre de 2020 pela faculdade Estácio. Lá aprendi <b>Java</b>, POO, Modelagem de Dados, Banco de Dados, Segurança da Informação.</p>
 
-<p>Já desenvolvi alguns projetos e entre eles, um dos mais importantes que trabalhei como freelance, desenvolvi um sistema de reservas de mesas para um restaurante. Atualmente estou estudando <b>Desenvolvimento de Software</b> na <b>Trybe</b>.</p> 
+<p>Já desenvolvi alguns projetos e entre eles, um dos mais importantes que trabalhei como freelance, desenvolvi um sistema de reservas de mesas para um restaurante. Recentemente conclui um curso de <b>Desenvolvimento de Software</b> na <b>Trybe</b>.</p> 
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 <b>Pontos de destaque sobre mim:</b>
 <ul align="left">
-  <li>💻 Tenho um grande interesse em <b>Desenvolvimento Web</b>, seja Front, End ou Full Stack</li>
+  <li>💻 Tenho um grande interesse em <b>Desenvolvimento Web</b></li>
   <li>🎮 Video-games são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)</li>
   <li>📖 Amo ler notícias e livros que me edificam (embora hoje em dia não tenho mais o mesmo tempo de antes para ler)</li>
   <li>💭 Gosto de passar tempo livre apenas parado pensando, sim, PENSANDO! Fico refletindo e mirabolando situações que talvez nem aconteçam (ou aconteçam!)</li>
