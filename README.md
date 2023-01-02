@@ -51,10 +51,10 @@
   <h2>Olá!</h2>
   <p align="left">
     <a href="https://wesleypribeiro.github.io/" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/github.png" />
+      <img height="32px" src="github.png" />
     </a>
     <a href="https://www.linkedin.com/in/wesleypribeiro/" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
+      <img height="32px" src="linkedin.png" />
     </a>
   <br /><a href="mailto:wesley_paulo00@hotmail.com" target="_blank">wesley_paulo00@hotmail.com</a>
   </p>
@@ -97,10 +97,10 @@
   <h2>Hola!</h2>
   <p align="left">
     <a href="https://wesleypribeiro.github.io/" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/github.png" />
+      <img height="32px" src="github.png" />
     </a>
     <a href="https://www.linkedin.com/in/wesleypribeiro/?locale=es_ES" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
+      <img height="32px" src="linkedin.png" />
     </a>
   <br /><a href="mailto:wesley_paulo00@hotmail.com" target="_blank">wesley_paulo00@hotmail.com</a>
   </p>
