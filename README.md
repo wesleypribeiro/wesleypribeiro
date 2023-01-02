@@ -5,20 +5,14 @@
   <h2>Hello!</h2>
   <p align="left">
     <a href="https://wesleypribeiro.github.io/" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/github.png" />
+      <img height="32px" src="github.png" />
     </a>
-    <a href="https://www.linkedin.com/in/wesleypribeiro/" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
-    </a>
-    <a href="https://www.facebook.com/wesleybehbs" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" />
-    </a>
-    <a href="https://www.instagram.com/wesleypribeiro_" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
+    <a href="https://www.linkedin.com/in/wesleypribeiro/?locale=en_US" target="_blank">
+      <img height="32px" src="linkedin.png" />
     </a>
   <br /><a href="mailto:wesley_paulo00@hotmail.com" target="_blank">wesley_paulo00@hotmail.com</a>
   </p>
-  <a href="https://gitconnected.com/wesleypribeiro/resume">"Click here to access my resume"</a> 📄👍
+  <a href="https://gitconnected.com/wesleypribeiro/resume">Click here to access my resume</a> 📄👍
   <p>I am <b>Wesley Paulo</b>, I live at São José dos Campos, São Paulo - Brazil. I am currently a <b>Full-Stack Web Developer</b> at GAP Sistemas. I always loved <b>programming</b>, since when I was a teenager, when I thought I would become a hacker once I learned how to program! I started studying on my own with some internet blogs and books, and developed small applications in Python. In 2012, I took <b>Technical Course in Computer Science</b> wich one of the my interests was <b>C# development</b> and <b>SQL Server</b>. I gratuated in <b> Systems Analysis and Development</b> from Estácio College in the first semester of 2020.</p>
 
   <p>I completed a Full-Stack Web Development course at <b>Trybe</b> school in 2021, which was a very important step for my career to take off.</p> 
@@ -61,12 +55,6 @@
     </a>
     <a href="https://www.linkedin.com/in/wesleypribeiro/" target="_blank">
       <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
-    </a>
-    <a href="https://www.facebook.com/wesleybehbs" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" />
-    </a>
-    <a href="https://www.instagram.com/wesleypribeiro_" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
     </a>
   <br /><a href="mailto:wesley_paulo00@hotmail.com" target="_blank">wesley_paulo00@hotmail.com</a>
   </p>
@@ -111,14 +99,8 @@
     <a href="https://wesleypribeiro.github.io/" target="_blank">
       <img height="32px" src="https://wesleypribeiro.github.io/img/github.png" />
     </a>
-    <a href="https://www.linkedin.com/in/wesleypribeiro/" target="_blank">
+    <a href="https://www.linkedin.com/in/wesleypribeiro/?locale=es_ES" target="_blank">
       <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
-    </a>
-    <a href="https://www.facebook.com/wesleybehbs" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" />
-    </a>
-    <a href="https://www.instagram.com/wesleypribeiro_" target="_blank">
-      <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
     </a>
   <br /><a href="mailto:wesley_paulo00@hotmail.com" target="_blank">wesley_paulo00@hotmail.com</a>
   </p>
