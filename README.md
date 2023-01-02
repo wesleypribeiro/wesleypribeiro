@@ -101,7 +101,7 @@
   </p>
 
   [![wesleypribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypribeiro&locale=pt-br)](https://github.com/wesleypribeiro/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact)](https://github.com/wesleypribeiro/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact&locale=pt-br)](https://github.com/wesleypribeiro/github-readme-stats)
 </section>
 
 <section id="es">
@@ -153,7 +153,7 @@
   </p>
 
   [![wesleypribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypribeiro&locale=es)](https://github.com/wesleypribeiro/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact)](https://github.com/wesleypribeiro/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact&locale=es)](https://github.com/wesleypribeiro/github-readme-stats)
 </section>
 
 
