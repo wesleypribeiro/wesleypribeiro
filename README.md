@@ -50,7 +50,7 @@
 [![wesleypribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypribeiro)](https://github.com/wesleypribeiro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact)](https://github.com/wesleypribeiro/github-readme-stats)
 
-<section id="#pt">
+<div id="#pt">
   <h2>Olá!</h2>
   <p align="left">
     <a href="https://wesleypribeiro.github.io/" target="_blank">
@@ -98,5 +98,5 @@
 
   [![wesleypribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleypribeiro)](https://github.com/wesleypribeiro/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact)](https://github.com/wesleypribeiro/github-readme-stats)
-</section>
+</div>
 
