@@ -51,6 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypribeiro&layout=compact)](https://github.com/wesleypribeiro/github-readme-stats)
 
 <section id="pt">
+  <h1>PT</h1>
   <h2>Olá!</h2>
   <p align="left">
     <a href="https://wesleypribeiro.github.io/" target="_blank">
