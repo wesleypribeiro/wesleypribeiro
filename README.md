@@ -1,4 +1,7 @@
-<h2>Olá!</h2>
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/wesleypribeiro/README.pt-br.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/wesleypribeiro/README.es.md)
+
+<h2>Hello!</h2>
 <p align="left">
   <a href="https://wesleypribeiro.github.io/" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/github.png" />
