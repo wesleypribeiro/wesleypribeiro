@@ -1,5 +1,5 @@
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/wesleypribeiro/README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/wesleypribeiro/README.es.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/wesleypribeiro/wesleypribeiro/blob/main/README.pt-br.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/wesleypribeiro/wesleypribeiro/blob/main/README.es.md)
 
 <h2>Hello!</h2>
 <p align="left">
